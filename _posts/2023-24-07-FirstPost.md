@@ -18,8 +18,14 @@ To make this recap more efficient and concise, I'll list what I learned from eac
 * It's crucial to give feedback, and be open to receive it
 * The importance of perception
 
-### 
+### Agile Class
+*
 
+### Training Class
+*
+
+### Client Intro Workshop
+*
 
 ## This Week's Homework
 
@@ -30,5 +36,6 @@ CODE code;
 ### Blog
 
 ## Visiting the CDMX Office
-
+![img-description](/assets/img/me_at_office.jpg)
+_Me at Encora's CDMX office_
 # Wrapping up
