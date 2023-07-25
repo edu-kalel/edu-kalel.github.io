@@ -36,6 +36,6 @@ CODE code;
 ### Blog
 
 ## Visiting the CDMX Office
-![img-description](/assets/img/me_at_office.jpg)
-_Me at Encora's CDMX office_
+<!-- ![img-description](/assets/img/me_at_office.jpg)
+_Me at Encora's CDMX office_ -->
 # Wrapping up
