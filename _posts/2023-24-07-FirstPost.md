@@ -5,7 +5,7 @@ categories: [Encora, Weekly Essay]
 tags: [apprentice, weekly, encora, essay]     # TAG names should always be lowercase
 ---
 
-# THIS BLOG IS STILL A WORK IN PROGRESS. I'LL FINISH IT ASAP
+# THIS BLOG IS STILL A WORK IN PROGRESS. I'LL FINISH IT ASAP. APOLOGIES
 
 This 3rd week at Encora was very different from the previous two. For starters, we are having less meetings each week, but the homeworks keep getting more interesting and fun to do. Here's the recap!
 
