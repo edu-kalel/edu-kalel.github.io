@@ -1,22 +1,19 @@
 ---
-title: 2nd Week Essay
-date: 2023-07-17 12:00:00 -0500
+title: 1st Week Essay
+date: 2023-07-10 12:00:00 -0500
 categories: [Encora, Weekly Essay]
 tags: [apprentice, weekly, encora, essay]     # TAG names should always be lowercase
 ---
+# My first week at Encora MX
 
-# Introduction Week II - Playground 
+My week started great, we had our first meeting with Dayra, who oversees our batch of new interns. After we introduced each other, she gave us some instructions for our first assignments, it was a short meeting. After that, we received a mail with more specific instructions to set up our accounts at Outlook, Slack and MyEncora. 
 
-I feel that this week was less busy than the first one, we didn’t have as many meetings, there was less homework, therefore it was also relatively easier. 
+The following days were mostly focused on video calls with different departments at Encora MX. We had meetings with P&C, The Office Managers Team, and a couple of talks with “The IT Jedis”. Each department gave us a warm welcome and explained the work they do and how each one is important for achieving the optimal work conditions found at Encora. Everyone was so nice and friendly! 
 
-The first meeting this week was to teach us about Leadership Teams, a very interesting dynamic here at Encora about communities built on a shared interest. I found it quite inspiring, I hope to get involved in a LT in the near future. 
+Between meetings, I took the courses offered at KnowBe4. All of them were very informative and educational. Even for someone with a little bit of knowledge about topics like cybersecurity and how cyber-attacks tend to be made, all the courses were easy to understand and made their point clear. 
 
-The next day, we had two meetings that for me personally were very eye opening about how life at Encora is. The first one was the “Regrouping” meeting, where (almost) everyone from Encora MX was present. At first it was amazing to see so many people in a single meeting, and for a moment it was also quite scary, but a few seconds into the meeting, everyone was already joking, playing music and the ambient was so nice and friendly, so even for a newbie like me, it didn’t feel scary anymore, it was like hanging out with friends. I was also a little surprised by the topic discussed in that meeting (the crisis) and was amazed by the incredible response of all the encorians, from the big bosses to even a couple of fellow apprentices that got to ask questions at the meeting. The fact that anyone could participate in the dynamics of the meeting was surprising. It feels nice that everyone here has the chance to speak and be heard. The other meeting was “The art of Feedback”, which I think is a crucial part of the awesome culture experienced here at Encora. 
+In our last meeting (Orientation Class) we got to know more about what Encora does and the history of the company. I have to admit, it was very interesting and inspirational, it got me even more excited about the program. 
 
-The next day I had my first “All Hands” meeting, and same as the regrouping, it was awesome to be among so many encorians, chatting and getting to know more about how this place works from the inside. It feels nice, and I would even say “empowering” to be a part of these meetings, you get to feel like you matter, and you are part of the company. 
+I’m glad I’m here at Encora, eager to learn, work and be a part of the team. 
 
-Last but not least, today we had a little meeting about something called “Viernes de nuevos”, a pretty fun dynamic where we (the newest encorians) get to host a space where we can do some bonding and get to know each other. We are excited for it! 
-
-In this week, we also got access to HyperSkill, and our manager instructed us to start with the “Cinema Room Manager” project. It was fun to do, and it helped me to remember some basic Java concepts.
-
-And that’s been pretty much everything from this last week. I’m really enjoying being a part of Encora MX and look forward to whatever comes next. :D 
+Already “Feeling the Magic”! ;)  
