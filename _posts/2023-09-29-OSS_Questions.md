@@ -41,9 +41,50 @@ By using Lombok annotations like @Data, developers can write cleaner and more co
 
 From the projects we have chosen to contribute to, come up with questions that elicit deep understanding of the project.
 
+## Project to contribute: [elasticsearch](https://github.com/elastic/elasticsearch)
+
+> Elasticsearch is a distributed, RESTful search engine optimized for speed and relevance on production-scale workloads. You can use Elasticsearch to perform real-time search over massive datasets for applications including:
+>
+> Vector search
+>
+> Full-text search
+>
+> Logs
+>
+> Metrics
+> 
+> Application performance monitoring (APM)
+> 
+> Security logs
+> 
+> ... and more!
+
+The particular issue I will be working on is: [Expand runtime_field data types to include ranges #89707](https://github.com/elastic/elasticsearch/issues/89707)
+
+I think the following question is relevant to the project and the issue to resolve:
+
+### Question: Describe the role of Java Serialization in Elasticsearch.
+
+Java Serialization in Elasticsearch plays a critical role in data storage and retrieval, especially when dealing with distributed systems and data persistence.
+
+Java Serialization is the process of converting Java objects into a byte stream, allowing these objects to be saved in files, sent over networks, or stored in databases. In Elasticsearch, Java Serialization is used to convert complex data structures, such as documents and queries, into a serialized form for storage and transportation. When data is indexed in Elasticsearch, it's often serialized to be stored efficiently in the underlying data store. Similarly, when data is retrieved, it's deserialized back into Java objects for processing.
+
+**Utilization for Data Storage and Retrieval:**
+
+* Data Storage: When documents are indexed in Elasticsearch, they are serialized into a binary format before being stored on disk. This serialized form allows for efficient storage and quick retrieval.
+
+* Data Retrieval: When data is retrieved from Elasticsearch, especially in distributed environments, it's often transmitted as serialized objects. These objects are deserialized back into Java objects on the client-side for further processing or display.
+
+**Challenges and Best Practices:**
+
+* Versioning: One of the challenges with Java Serialization is versioning. If the structure of serialized objects changes (due to code updates, for instance), older versions of the software might not be able to deserialize newer data formats correctly. It's essential to handle versioning carefully to ensure backward compatibility.
+
+* Security: Serialized data can pose security risks if not handled correctly. Ensuring that only trusted sources can deserialize data is crucial to prevent attacks like deserialization vulnerabilities.
+
+
 ## Project to contribute: [Wikimedia Commons Android app](https://github.com/commons-app/apps-android-commons)
 
-    The Wikimedia Commons Android app allows users to upload pictures from their Android phone/tablet to Wikimedia Commons
+> The Wikimedia Commons Android app allows users to upload pictures from their Android phone/tablet to Wikimedia Commons
 
 The particular issue I will be working on is: [Crash when tapping in custom picker while processing #5289](https://github.com/commons-app/apps-android-commons/issues/5289)
 
@@ -84,43 +125,3 @@ Coroutines in Android, specifically in the context of Kotlin programming languag
     * You can use try-catch blocks inside coroutines to handle exceptions.
 10. Asynchronous Composition:
     * Coroutines can be used to compose multiple asynchronous operations, making complex asynchronous flows much more readable and manageable.
-
-## Project to contribute: [elasticsearch](https://github.com/elastic/elasticsearch)
-
-    Elasticsearch is a distributed, RESTful search engine optimized for speed and relevance on production-scale workloads. You can use Elasticsearch to perform real-time search over massive datasets for applications including:
-
-    Vector search
-
-    Full-text search
-
-    Logs
-
-    Metrics
-
-    Application performance monitoring (APM)
-
-    Security logs
-
-    ... and more!
-
-The particular issue I will be working on is: [Expand runtime_field data types to include ranges #89707](https://github.com/elastic/elasticsearch/issues/89707)
-
-I think the following question is relevant to the project and the issue to resolve:
-
-### Question: Describe the role of Java Serialization in Elasticsearch.
-
-Java Serialization in Elasticsearch plays a critical role in data storage and retrieval, especially when dealing with distributed systems and data persistence.
-
-Java Serialization is the process of converting Java objects into a byte stream, allowing these objects to be saved in files, sent over networks, or stored in databases. In Elasticsearch, Java Serialization is used to convert complex data structures, such as documents and queries, into a serialized form for storage and transportation. When data is indexed in Elasticsearch, it's often serialized to be stored efficiently in the underlying data store. Similarly, when data is retrieved, it's deserialized back into Java objects for processing.
-
-**Utilization for Data Storage and Retrieval:**
-
-* Data Storage: When documents are indexed in Elasticsearch, they are serialized into a binary format before being stored on disk. This serialized form allows for efficient storage and quick retrieval.
-
-* Data Retrieval: When data is retrieved from Elasticsearch, especially in distributed environments, it's often transmitted as serialized objects. These objects are deserialized back into Java objects on the client-side for further processing or display.
-
-**Challenges and Best Practices:**
-
-* Versioning: One of the challenges with Java Serialization is versioning. If the structure of serialized objects changes (due to code updates, for instance), older versions of the software might not be able to deserialize newer data formats correctly. It's essential to handle versioning carefully to ensure backward compatibility.
-
-* Security: Serialized data can pose security risks if not handled correctly. Ensuring that only trusted sources can deserialize data is crucial to prevent attacks like deserialization vulnerabilities.
